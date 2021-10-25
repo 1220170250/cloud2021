@@ -1,0 +1,4 @@
+com\qinkai\springcloud\service\PaymentFeignService.class
+com\qinkai\springcloud\config\FeignConfig.class
+com\qinkai\springcloud\controller\OrderFeignController.class
+com\qinkai\springcloud\OrderFeignMain80.class
